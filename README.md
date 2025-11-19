@@ -30,9 +30,9 @@
 
 <div>
   <p align="left">
-    <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" /></a>
-    <a href="https://discordapp.com/users/your-discord-id" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" /></a>
-    <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/aaff115/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" /></a>
+    <a href="https://discordapp.com/users/1440457583230980308" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" /></a>
+    <a href="mailto:asifalfatthafahim12@gmail.com.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" width="40" /></a>
   </p>
 </div>
 
