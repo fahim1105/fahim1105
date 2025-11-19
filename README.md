@@ -15,13 +15,13 @@
 <br/>
 
 <!-- about -->
-- 👋 Hi, I’m **[@asif-al-fattha](https://github.com/your-username)**
+- 👋 Hi, I’m **[Asif Al Fattha Fahim]([https://github.com/your-username](https://github.com/fahim1105))**
 - 🖥️ Working with **React.js & Next.js** for frontend development.
 - 🗄️ Familiar with **Node.js, Express.js & MongoDB**.
 - 🚀 Currently exploring **Next.js ecosystem**.
 - 💬 Ask me about **Frontend, React, Next.js & Web Apps**.
 - 📝 I share thoughts on **LinkedIn**.
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **asifalfatthafahim12@gmail.com**
 
 <br/>
 
