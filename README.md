@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/HTvmHffy/Asif-Al-Fattha-Fahim.jpg" alt="Hello world">
+<img src="https://i.ibb.co.com/HTvmHffy/Asif-Al-Fattha-Fahim.jpg" alt="banner">
 
 <br/>
 
@@ -15,7 +15,7 @@
 <br/>
 
 <!-- about -->
-- 👋 Hi, I’m **[Asif Al Fattha Fahim]([https://github.com/your-username](https://github.com/fahim1105))**
+- 👋 Hi, I’m **[Asif Al Fattha Fahim](https://github.com/fahim1105)**
 - 🖥️ Working with **React.js & Next.js** for frontend development.
 - 🗄️ Familiar with **Node.js, Express.js & MongoDB**.
 - 🚀 Currently exploring **Next.js ecosystem**.
@@ -32,7 +32,7 @@
   <p align="left">
     <a href="https://www.linkedin.com/in/aaff115/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" /></a>
     <a href="https://discordapp.com/users/1440457583230980308" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" /></a>
-    <a href="mailto:asifalfatthafahim12@gmail.com.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" width="40" /></a>
+    <a href="mailto:asifalfatthafahim12@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" width="40" /></a>
   </p>
 </div>
 
@@ -93,7 +93,23 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=fahim1105&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Activity Graph -->
+## 📊 Contribution Activity Graph
+![Asif's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fahim1105&theme=react-dark)
 
 <br/>
+
+<!-- Trophies -->
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=fahim1105&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+<br/>
+
+<!-- Random Quote -->
+## 💬 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=fahim1105&icon=0&color=0)](https://visitcount.itsvg.in)
 
