@@ -89,11 +89,11 @@
 
 | GitHub Stats | Streak Stats | Top Languages |
 |--------------|--------------|----------------|
-| ![](https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=your-username&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=dark&hide_border=false&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=fahim1105&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=fahim1105&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim1105&theme=dark&hide_border=false&layout=compact) |
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=the-abed&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=fahim1105&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br/>
 
