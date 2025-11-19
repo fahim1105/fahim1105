@@ -78,9 +78,9 @@
 <!-- pinned repos -->
 ## 📌 Pinned Projects
 
-| Project 1 | Project 2 | Project 3 |
-|----------------|----------------|------------|
-| <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-1&theme=dark" /></a> | <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-2&theme=dark" /></a> | <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-3&theme=dark" /></a> |
+| Money-Map-Client | boi-poka-project | assignment-two |
+|------------------|------------------|----------------|
+| <a href="https://github.com/fahim1105/Money-Map-Client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim1105&repo=Money-Map-Client&theme=dark" /></a> | <a href="https://github.com/fahim1105/boi-poka-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim1105&repo=boi-poka-project&theme=dark" /></a> | <a href="https://github.com/fahim1105/assignment-two"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim1105&repo=assignment-two&theme=dark" /></a> |
 
 <br/>
 
