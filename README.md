@@ -103,13 +103,4 @@
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=fahim1105&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<br/>
-
-<!-- Random Quote -->
-## 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=fahim1105&icon=0&color=0)](https://visitcount.itsvg.in)
 
