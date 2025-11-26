@@ -66,7 +66,7 @@
 
 <!-- contributions -->
 ## 📈 GitHub Contributions
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=fahim1105)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fahim1105&theme=tokyonight)
 
 <br/>
 
