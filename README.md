@@ -43,8 +43,8 @@
   </a>
 
   <a href="https://www.facebook.com/aaff.115" target="_blank">
-  <img src="https://i.ibb.co/svQzN5nj/download.png" height="40" />
-</a>
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
+  </a>
 
   <a href="https://instagram.com/aaff.115" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
