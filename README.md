@@ -28,31 +28,30 @@
 <!-- socials -->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> CONNECT WITH ME:</b>
 
-<div>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/aaff115/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
-    </a>
+<p align="left">
 
-    <a href="https://discordapp.com/users/1440457583230980308" target="blank">
-      <img src="https://skillicons.dev/icons?i=discord" height="30" width="40" />
-    </a>
+  <a href="https://www.linkedin.com/in/aaff115/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 
-    <a href="mailto:asifalfatthafahim12@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" height="30" width="40" />
-    </a>
+  <a href="https://discordapp.com/users/1440457583230980308" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
 
-    <!-- Facebook -->
-    <a href="https://www.facebook.com/share/1AFBogXgaN/?mibextid=wwXIfr" target="_blank">
-      <img src="https://skillicons.dev/icons?i=facebook" height="30" width="40" />
-    </a>
+  <a href="mailto:asifalfatthafahim12@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
 
-    <!-- Instagram -->
-    <a href="https://instagram.com/aaff.115" target="_blank">
-      <img src="https://skillicons.dev/icons?i=instagram" height="30" width="40" />
-    </a>
-  </p>
-</div>
+  <a href="https://www.facebook.com/share/1AFBogXgaN/?mibextid=wwXIfr" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+  </a>
+
+  <a href="https://instagram.com/aaff.115" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+
+</p>
+
 
 <br/>
 
