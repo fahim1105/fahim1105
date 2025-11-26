@@ -79,11 +79,6 @@
 ### Tools:
 ![Tools](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman)
 
-<br/>
-
-<!-- contributions -->
-## 📈 GitHub Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fahim1105&theme=tokyonight)
 
 <br/>
 
