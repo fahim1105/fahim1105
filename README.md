@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/Hp91kGWb/dd.jpg" alt="banner">
+<img src="https://i.ibb.co.com/Hp91kGWb/dd.jpg" alt="banner" />
 
 <br/>
 
@@ -18,9 +18,9 @@
 - 👋 Hi, I’m **[Asif Al Fattha Fahim](https://github.com/fahim1105)**
 - 🖥️ Working with **React.js & Next.js** for frontend development.
 - 🗄️ Familiar with **Node.js, Express.js & MongoDB**.
-- 🚀 Currently exploring **Next.js ecosystem**.
-- 💬 Ask me about **Frontend, React, Next.js & Web Apps**.
-- 📝 I share thoughts on **LinkedIn**.
+- 🚀 Currently exploring the **Next.js ecosystem**.
+- 💬 Ask me about **Frontend, React, Next.js & Modern Web Apps**.
+- 📝 Sharing thoughts on **LinkedIn**.
 - 📫 Reach me: **asifalfatthafahim12@gmail.com**
 
 <br/>
@@ -30,9 +30,27 @@
 
 <div>
   <p align="left">
-    <a href="https://www.linkedin.com/in/aaff115/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" /></a>
-    <a href="https://discordapp.com/users/1440457583230980308" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" /></a>
-    <a href="mailto:asifalfatthafahim12@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/aaff115/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
+    </a>
+
+    <a href="https://discordapp.com/users/1440457583230980308" target="blank">
+      <img src="https://skillicons.dev/icons?i=discord" height="30" width="40" />
+    </a>
+
+    <a href="mailto:asifalfatthafahim12@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" height="30" width="40" />
+    </a>
+
+    <!-- Facebook -->
+    <a href="https://www.facebook.com/share/1AFBogXgaN/?mibextid=wwXIfr" target="_blank">
+      <img src="https://skillicons.dev/icons?i=facebook" height="30" width="40" />
+    </a>
+
+    <!-- Instagram -->
+    <a href="https://instagram.com/aaff.115" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram" height="30" width="40" />
+    </a>
   </p>
 </div>
 
@@ -102,5 +120,3 @@
 <!-- Trophies -->
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=fahim1105&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-
