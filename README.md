@@ -42,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 
-  <a href="https://www.facebook.com/share/1AFBogXgaN/?mibextid=wwXIfr" target="_blank">
+  <a href="https://www.facebook.com/aaff.115" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="40" />
   </a>
 
