@@ -1,96 +1,109 @@
-<div align="center">
-  <img src="https://i.ibb.co.com/Hp91kGWb/dd.jpg" alt="banner" width="100%" />
+<img src="https://i.ibb.co.com/Hp91kGWb/dd.jpg" alt="banner" />
 
-  <br/>
+<br/>
 
-  <!-- Title Section -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Asif+Al+Fattha+Fahim;MERN+Stack+Developer;Next.js+Enthusiast;Building+Modern+Web+Apps" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <i>Passionate Software Developer specializing in building high-performance, visually stunning web applications.</i>
-  </p>
-
-  <!-- Quick Socials -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/aaff115/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:asifalfatthafahim12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://discordapp.com/users/1440457583230980308"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  </p>
-</div>
-
----
-
-### ⚡ About Me
-
-- 🚀 **Core Focus**: Crafting seamless user experiences with **React.js & Next.js**.
-- 🛠️ **Full Stack**: Architecting scalable backends with **Node.js, Express, and MongoDB**.
-- 🎨 **UI/UX**: Obsessed with glassmorphism, 3D elements, and smooth animations using **Framer Motion & Tailwind CSS**.
-- 🎓 **Education**: Pursuing BSc in Computer Science and Engineering.
-- 🏗️ **Current Work**: Building **SEU Matrimony** and exploring the latest in the **Next.js ecosystem**.
-
----
-
-### 💻 Tech Stack
-
-<div align="center">
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
-| **Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
-</div>
-
----
-
-### 📌 Featured Projects
-
-<table border="0">
-  <tr>
-    <td width="50%">
-      <h3 align="center">ScholarsStream</h3>
-      <p>A full-stack scholarship management platform built to streamline academic opportunities. Features a robust dashboard and real-time status tracking.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-        <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Money Map</h3>
-      <p>A sophisticated financial tracking application for managing income and expenses with interactive data visualization and clean UI.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MERN-Stack-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Git Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahim1105&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim1105&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Languages" height="180px" />
+<!-- title -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Asif Al Fattha Fahim</h1></summary>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Web+Developer;CSE+Student;Exploring+Next.js+%26+Modern+Web+Tech" alt="Typing SVG" />
+    </a>
+  </ul>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahim1105&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" width="100%" />
-</div>
+<!-- about -->
+- 👋 Hi, I’m **[Asif Al Fattha Fahim](https://github.com/fahim1105)**
+- 🖥️ Working with **React.js & Next.js** for frontend development.
+- 🗄️ Familiar with **Node.js, Express.js & MongoDB**.
+- 🚀 Currently exploring the **Next.js ecosystem**.
+- 💬 Ask me about **Frontend, React, Next.js & Modern Web Apps**.
+- 📝 Sharing thoughts on **LinkedIn**.
+- 📫 Reach me: **asifalfatthafahim12@gmail.com**
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahim1105&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
+<!-- socials -->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> CONNECT WITH ME:</b>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/aaff115/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+
+  <a href="https://discordapp.com/users/1440457583230980308" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
+
+  <a href="mailto:asifalfatthafahim12@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+
 </p>
+
+
+<br/>
+
+<!-- technology -->
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
+
+### Languages:
+![Languages](https://skillicons.dev/icons?i=html,css,javascript,python,c,cpp)
+
+### CSS Frameworks:
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### JavaScript Frameworks:
+![JS Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,express)
+
+### Database:
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### Deployment:
+![Deployment](https://skillicons.dev/icons?i=vercel,netlify,firebase)
+
+### Design:
+![Design](https://skillicons.dev/icons?i=figma)
+
+### Tools:
+![Tools](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman)
+
+
+<br/>
+
+## 📈 Yearly Contribution Heatmap
+![GitHub Contribution Graph](https://ghchart.rshah.org/fahim1105)
+
+<br/>
+
+<!-- pinned repos -->
+## 📌 Pinned Projects
+
+| Money-Map-Client | boi-poka-project | assignment-two |
+|------------------|------------------|----------------|
+| <a href="https://github.com/fahim1105/Money-Map-Client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim1105&repo=Money-Map-Client&theme=dark" /></a> | <a href="https://github.com/fahim1105/boi-poka-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim1105&repo=boi-poka-project&theme=dark" /></a> | <a href="https://github.com/fahim1105/assignment-two"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fahim1105&repo=assignment-two&theme=dark" /></a> |
+
+<br/>
+
+<!-- github stats -->
+## 📊 GitHub Stats
+
+| GitHub Stats | Streak Stats | Top Languages |
+|--------------|--------------|----------------|
+| ![](https://github-readme-stats.vercel.app/api?username=fahim1105&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=fahim1105&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahim1105&theme=dark&hide_border=false&layout=compact) |
+
+---
+
+<!-- Activity Graph -->
+## 📊 Contribution Activity Graph
+![Asif's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fahim1105&theme=react-dark)
+
+<br/>
+
+<!-- Trophies -->
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=fahim1105&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
