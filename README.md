@@ -4,54 +4,28 @@
   <img src="dark.svg" alt="Asif Al Fattha Fahim — MERN Stack Developer">
 </picture>
 
-<img src="https://i.ibb.co.com/Hp91kGWb/dd.jpg" alt="banner" />
-
-<br/>
-
-<!-- title -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Asif Al Fattha Fahim</h1></summary>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Web+Developer;CSE+Student;Exploring+Next.js+%26+Modern+Web+Tech" alt="Typing SVG" />
-    </a>
-  </ul>
-</div>
-
-<br/>
-
-<!-- about -->
-- 👋 Hi, I’m **[Asif Al Fattha Fahim](https://github.com/fahim1105)**
-- 🖥️ Working with **React.js & Next.js** for frontend development.
-- 🗄️ Familiar with **Node.js, Express.js & MongoDB**.
-- 🚀 Currently exploring the **Next.js ecosystem**.
-- 💬 Ask me about **Frontend, React, Next.js & Modern Web Apps**.
-- 📝 Sharing thoughts on **LinkedIn**.
-- 📫 Reach me: **asifalfatthafahim12@gmail.com**
-
-<br/>
-
 <!-- socials -->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> CONNECT WITH ME:</b>
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/aaff115/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/aaff115/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 
-  <a href="https://discordapp.com/users/1440457583230980308" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" />
-  </a>
+  <a href="https://discordapp.com/users/1440457583230980308" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
 
-  <a href="mailto:asifalfatthafahim12@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
+  <a href="mailto:asifalfatthafahim12@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
 
 </p>
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=500&lines=Building+full-stack+apps+with+AI;MERN+Stack+Developer;Always+learning+something+new" alt="Typing animation" />
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:7C3AED,50:22D3EE,100:10B981&section=header&animation=fadeIn" />
 
 <!-- technology -->
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
@@ -77,11 +51,19 @@
 ### Tools:
 ![Tools](https://skillicons.dev/icons?i=windows,notion,git,github,vscode,postman)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:10B981,50:22D3EE,100:7C3AED&section=header&animation=fadeIn" />
+
+## 📈 Yearly Contribution Heatmap
+![GitHub Contribution Graph](https://ghchart.rshah.org/7C3AED/fahim1105)
 
 <br/>
 
-## 📈 Yearly Contribution Heatmap
-![GitHub Contribution Graph](https://ghchart.rshah.org/fahim1105)
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahim1105/fahim1105/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahim1105/fahim1105/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/fahim1105/fahim1105/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br/>
 
@@ -113,3 +95,8 @@
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=fahim1105&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7C3AED,50:22D3EE,100:10B981&section=footer&animation=fadeIn" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=fahim1105&color=22D3EE&style=flat&label=Profile+Views)
